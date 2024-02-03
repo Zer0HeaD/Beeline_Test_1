@@ -1,0 +1,15 @@
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\zakir\OneDrive\Рабочий стол\Test_NewJob\Beeline\Test_1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
